@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**Joel-Ipe-Samuel/Joel-Ipe-Samuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Joel, a developer and content writer based in Trivandrum, Kerala! 
 
-Here are some ideas to get you started:
+I like to build and design fun solutions and experiences!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently working on a **new RPG idea with Godot** and working on **improving my own portfolio website**!
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________
+
+### Tech Stack 🥞
+* HTML5
+* CSS
+* Tailwind CSS
+* Javascript
+* Python
+* Tkinter
+* MySQL
+* Firebase
+
+_______________________________________________________________________________________________________________________________________________________________________________________________________________
+
+More about me! 👀
+* I love motorsports like F1, WEC and WRC - wanna talk technical, historical or downright chaotic about them? I'm the guy for that!
+* I love to talk about different cuisines, where they come from or where do they get their names. And better yet I love to eat!
+* Quite a anime and TV series fan with violet evergarden and Reacher(2022) as among my favourites! 
